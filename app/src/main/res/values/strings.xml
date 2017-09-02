@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraJoao</string>
+    <string name="caljo_valor1">Valor 1</string>
+    <string name="caljo_valor2">Valor 2</string>
+    <string name="caljo_calcular">Calcular</string>
+    <string name="caljo_soma">Soma</string>
+    <string name="caljo_subtrair">Subtrair</string>
+    <string name="caljo_dividir">Dividir</string>
+    <string name="caljo_multiplicar">Multiplicar</string>
+</resources>
